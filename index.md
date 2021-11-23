@@ -9,7 +9,7 @@
        <p><b>专业：计算机科学与技术（师范）</b></p>
     </td>
     <td width="25%">
-      <img src="/白底.jpg" width="100%">      % 插入证件照代码
+      <img src="/白底.jpg" width="100%">     
     </td>
   </tr>
 </table>
